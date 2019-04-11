@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_todos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="1482">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="e#25#114#0" expanded="true" />
               </folding>
@@ -49,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -63,12 +66,12 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,9 +88,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
@@ -185,13 +190,11 @@
       <workItem from="1553221949842" duration="12927000" />
       <workItem from="1553653736795" duration="595000" />
       <workItem from="1554091718620" duration="1597000" />
+      <workItem from="1554967067484" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_test_todos_py - 2019.03.22 at 14h 30m 24s.xml">
-      <configuration name="Nosetests in test_todos.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Nosetests_in_test_todos_py - 2019.03.22 at 14h 30m 42s.xml">
       <configuration name="Nosetests in test_todos.py" configurationId="tests" />
     </history-entry>
@@ -219,19 +222,22 @@
     <history-entry file="Nosetests_in_test_todos_py - 2019.03.22 at 15h 41m 26s.xml">
       <configuration name="Nosetests in test_todos.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Nosetests_in_test_todos_py - 2019.04.11 at 16h 18m 21s.xml">
+      <configuration name="Nosetests in test_todos.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15119000" />
+    <option name="totallyTimeSpent" value="15363000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-94" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,7 +247,7 @@
       <window_info anchor="bottom" id="Floobits" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -277,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_todos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="1482">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
           <folding>
             <element signature="e#25#114#0" expanded="true" />
           </folding>
